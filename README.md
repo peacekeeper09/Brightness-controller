@@ -14,3 +14,4 @@ pip install screen-brightness-control
 ```
 
 # Screenshot
+![image](https://user-images.githubusercontent.com/80287027/234117661-c1003d16-6add-4b30-a39a-65761d262991.png)
