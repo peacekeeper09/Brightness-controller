@@ -12,3 +12,5 @@ You can read more about the module from [here.](https://pypi.org/project/screen-
 ```
 pip install screen-brightness-control
 ```
+
+# Screenshot
