@@ -1,3 +1,3 @@
 # Brightness-controller
 
-A simple brightness controller made using pygame, tkinter, pycaw, comtypes, ctypes. 
+A simple brightness controller made using tkinter, screen_brighness_control.
