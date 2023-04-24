@@ -15,3 +15,7 @@ pip install screen-brightness-control
 
 # Screenshot
 ![image](https://user-images.githubusercontent.com/80287027/234117661-c1003d16-6add-4b30-a39a-65761d262991.png)
+
+# Purpose of making this?
+
+So since updating to Windows 11, I've been experiencing issues with the small control panel at the bottom right of my screen. It's often unresponsive, so I thought, why not control the brightness using Python? Lol.
